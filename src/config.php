@@ -11,7 +11,7 @@
 /**
  * Vite Manifest config.php
  *
- * This file exists only as a template for the Craft Mix settings.
+ * This file exists only as a template for the Vite Manifest settings.
  * It does nothing on its own.
  *
  * Don't edit this file, instead copy it to 'craft/config' as 'vite-manifest.php'

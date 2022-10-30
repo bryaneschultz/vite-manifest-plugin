@@ -2,7 +2,7 @@
     "name": "bryaneschultz/vite-manifest-plugin",
     "description": "Twig utility function to handle Vite manifest asset files for Craft CMS.",
     "type": "craft-plugin",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "keywords": [
         "craft",
         "craft4",
